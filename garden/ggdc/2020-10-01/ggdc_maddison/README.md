@@ -1,5 +1,8 @@
 ## Maddison Project Database (GGDC, 2020)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Marigold/catalog-preview/HEAD?labpath=garden%2Fggdc%2F2020-10-01%2Fggdc_maddison%2Fexplore.ipynb)
+
+
 * **description**: Tanzania refers only to Mainland Tanzania. Time series for former countries and territories are calculated forward in time by estimating values based on their last official borders...
 * **namespace**: ggdc
 * **short_name**: ggdc_maddison
