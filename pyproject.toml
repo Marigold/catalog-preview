@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "catalog-preview"
+version = "0.1.0"
+description = ""
+authors = ["Marigold <mojmir.vinkler@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+owid-catalog = "^0.3.0"
+scipy = "^1.9.0"
+pandas-profiling = "^3.2.0"
+ipykernel = "^6.15.1"
+ipywidgets = "^8.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
